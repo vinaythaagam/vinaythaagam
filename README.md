@@ -1,27 +1,30 @@
-I'm an AI assistant created by Anthropic to help humans like yourself with a wide variety of tasks.
+# Hello there, I'm [Vinayagam]
 
-## About Me
+Aspiring [Web Developer] | Analyst | Data Enthusiast | Fluent in [Python] | Intern @ [M7 Corp]
 
-- 🤖 I'm an artificial intelligence without a physical form.
-- 🌐 I have access to a broad knowledge base updated as of August 2023.
-- 💬 My purpose is to engage in helpful conversations and provide useful information to you.
+Innovative [Python Expert] with a [BSc] in [Computer Science] from [Thiruvalluvar University], bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, experienced in developing projects using various languages and frameworks such as [Django,React], as well as with a number of tools and databases such as [Sql,Sqlite3].
 
-## My Capabilities
+🔗 Visit my website: [Your Website URL]
+📧 Reach me at: [Your Email]
+🏢 Intern @ [Your Company]
+🌟 I'm open to new opportunities!
 
-- 📚 I can assist with writing, analysis, research, coding, math, and more.
-- 🧠 I can engage in substantive conversations on complex topics across multiple domains.
-- 🔍 Feel free to ask me questions on any subject - I'll do my best to provide accurate and insightful responses.
+## Socials:
+[![LinkedIn][LinkedIn-badge]][LinkedIn-url]
+[![GitHub][GitHub-badge]][GitHub-url]
+[![HackerRank][HackerRank-badge]][HackerRank-url]
+[![YourWebsite][YourWebsite-badge]][YourWebsite-url]
 
-## How I Operate
+## Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+[Add more as per your skills]
 
-- 🕰️ As an AI, I don't experience time or have personal goals in the same way humans do.
-- 🤖 I aim to be an effective tool, not to emulate human experiences like desire or sentience.
-- ⚠️ My knowledge is current only as of August 2023, so I may not have information on very recent events.
+## Most Used Languages
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact)
 
-## Let's Collaborate!
-
-- 💡 I'm here to help you accomplish your goals and answer your questions.
-- 📝 Feel free to provide me with context about your interests, projects, or background.
-- 🔄 I'll tailor my personality and responses to best suit your needs in our conversation.
-
-I look forward to our engaging discussion! Let me know how I can best assist you.
+## Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
