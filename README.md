@@ -1,30 +1,18 @@
-# Hello there, I'm [Vinayagam]
+# 💫 About Me:
+Hi there 👋<br>I'm currently working at Thaagam Foundation, where I focus on impactful projects. I'm also looking to collaborate on open-source projects and contribute to the community.<br><br>🌱 Currently learning: React JS<br><br>⚡ Fun fact: I enjoy playing cricket in my free time!
 
-Aspiring [Web Developer] | Analyst | Data Enthusiast | Fluent in [Python] | Intern @ [M7 Corp]
 
-Innovative [Python Expert] with a [BSc] in [Computer Science] from [Thiruvalluvar University], bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, experienced in developing projects using various languages and frameworks such as [Django,React], as well as with a number of tools and databases such as [Sql,Sqlite3].
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61559912207516) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vinay__jr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vk4499) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vinayagam-22) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SalamanderSea6090) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26320910) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/westcheyyur) 
 
-🔗 Visit my website: [Your Website URL]
-📧 Reach me at: [Your Email]
-🏢 Intern @ [Your Company]
-🌟 I'm open to new opportunities!
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vinaythaagam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vinaythaagam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaythaagam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Socials:
-[![LinkedIn][LinkedIn-badge]][LinkedIn-url]
-[![GitHub][GitHub-badge]][GitHub-url]
-[![HackerRank][HackerRank-badge]][HackerRank-url]
-[![YourWebsite][YourWebsite-badge]][YourWebsite-url]
+---
+[![](https://visitcount.itsvg.in/api?id=vinaythaagam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-[Add more as per your skills]
-
-## Most Used Languages
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact)
-
-## Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
