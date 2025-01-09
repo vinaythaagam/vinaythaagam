@@ -1,24 +1,19 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/github_gif_banner.gif">
+# 👋 Hi, I'm Vinayagam!
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Vinayagam!
-
-<h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;" />
-</h3>
+### Full Stack Developer | Open Source Enthusiast | Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> About Me
+## 👨‍💻 About Me
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding"/>
 
 Passionate Full Stack Developer at **Thaagam Foundation**, crafting innovative solutions and contributing to meaningful projects. I believe in the power of technology to create positive change.
 
@@ -28,98 +23,60 @@ Passionate Full Stack Developer at **Thaagam Foundation**, crafting innovative s
 - 💬 Ask me about **Web Development** & **Software Architecture**
 - ⚡ Fun fact: Cricket enthusiast who applies team strategies to coding! 🏏
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-  
 ### Languages
-<p align="center">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,postgres,redis,firebase" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & Technologies
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,aws,docker,vscode,postman" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="your-repo-link">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaythaagam&repo=repo-name&theme=tokyonight" />
-</a>
-<a href="your-repo-link">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaythaagam&repo=repo-name&theme=tokyonight" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaythaagam&show_icons=true&theme=tokyonight)](https://github.com/vinaythaagam)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaythaagam&layout=compact&theme=tokyonight)](https://github.com/vinaythaagam)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinaythaagam&theme=tokyonight)](https://github.com/vinaythaagam)
 
 </div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Analytics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vk4499)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_vinay__jr)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/westcheyyur)
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinaythaagam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=vinaythaagam&show_icons=true&theme=tokyonight" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaythaagam&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaythaagam&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> Connect With Me
-
-<div align="center">
-<p align="center">
-<a href="https://linkedin.com/in/vk4499" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://instagram.com/_vinay__jr" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://x.com/westcheyyur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="50" /></a>
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=vinaythaagam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=vinaythaagam&style=for-the-badge)
 
 </div>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
-
-<!-- Activity Graph -->
-[![Vinayagam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaythaagam&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
