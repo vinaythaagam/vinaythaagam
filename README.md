@@ -40,9 +40,6 @@ Passionate Full Stack Developer at **Thaagam Foundation**, crafting innovative s
 <!-- Updated Language Stats -->
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinaythaagam&theme=react&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8)
 
-<!-- Updated GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinaythaagam&theme=react&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
 <!-- Updated Trophies with custom theme -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinaythaagam&theme=react&no-frame=true&row=1&column=7)](https://github.com/vinaythaagam)
 
@@ -89,8 +86,5 @@ Passionate Full Stack Developer at **Thaagam Foundation**, crafting innovative s
 
 <!-- Updated Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaythaagam&style=flat-square&color=blue)
-
-<!-- Updated Spotify Widget -->
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1)](https://open.spotify.com/user/c3weu79iij8js0s8n03u1op4v)
 
 </div>
