@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Professional Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=200&section=header&text=VINAYAGAM%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Python%20Django%20Developer%20•%20AI%20Solutions%20Architect&descAlignY=55&descSize=18)
+![Professional Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=200&section=header&text=VINAYAGAM%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Python%20Django%20Developer%20•%20AI%20Solutions%20Architect&descAlignY=55&descSize=18)
 
 </div>
 
