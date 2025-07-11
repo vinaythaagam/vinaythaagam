@@ -1,4 +1,4 @@
-# VINAYAGAM 
+# VINAYAGAM
 ## Python Developer 
 ### 📧 vinayagamofficial@gmail.com | 📱 +91-9025533402 | 🌐 [Portfolio](https://vinayagam.netlify.app)
 
