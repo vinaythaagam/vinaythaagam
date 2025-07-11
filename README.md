@@ -1,5 +1,5 @@
-# VINAYAGAM K
-## Senior Python Django Developer | AI Solutions Architect
+# VINAYAGAM 
+## Python Developer 
 ### 📧 vinayagamofficial@gmail.com | 📱 +91-9025533402 | 🌐 [Portfolio](https://vinayagam.netlify.app)
 
 <div align="center">
@@ -144,8 +144,8 @@
 <tr>
 <td width="100%">
 
-### **Python Django Developer** | Thaagam Foundation
-**Duration:** Current Position | **Location:** Remote
+### **Python Developer** | Thaagam Foundation
+**Duration:** Current Position | **Location:** Chennai
 
 **Key Responsibilities:**
 - Develop and maintain multiple Django applications including donor CRM, HR management, and field operations systems
@@ -179,19 +179,6 @@
 
 ---
 
-## 🎓 EDUCATION & CERTIFICATIONS
-
-<div align="center">
-
-| **Degree** | **Institution** | **Status** | **Year** |
-|:---:|:---:|:---:|:---:|
-| **Master of Computer Applications (M.C.A.)** | University of Madras | Currently Pursuing | 2024-2026 |
-| **PHP Developer Certification** | CADD Center | Completed | 2023 |
-| **Bachelor of Science (Computer Science)** | TAGGAC Tindivanam | Completed | 2017-2020 |
-
-</div>
-
----
 
 ## 📈 CONTINUOUS LEARNING & DEVELOPMENT
 
