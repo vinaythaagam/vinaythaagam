@@ -201,9 +201,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vk4499-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vk4499)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinayagam.netlify.app-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://vinayagam.netlify.app)
 
-**Preferred Locations:** Remote | Chennai | Bangalore | Hyderabad  
-**Notice Period:** Immediate to 30 days  
-**Expected CTC:** Open for discussion based on role and responsibilities
+
 
 </div>
 
