@@ -18,7 +18,7 @@
 
 | 🏢 **Current Role** | 🎯 **Expertise** | 🚀 **Impact** | 📈 **Experience** |
 |:---:|:---:|:---:|:---:|
-| Python Django Developer<br>**M7 Corporation** | Django • AI Integration<br>Cloud Solutions • APIs | 60% Process Automation<br>200% Performance Boost | 2.3 Years Professional<br>8+ Production Apps |
+| Python Django Developer<br>**M7 Corporation** | Django • AI Integration<br>Cloud Solutions • APIs | 60% Process Automation<br>200% Performance Boost | 2 Years Professional<br>8+ Production Apps |
 
 </div>
 
